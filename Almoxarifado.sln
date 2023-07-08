@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almoxarifado.Domain", "Almoxarifado.Domain\Almoxarifado.Domain.csproj", "{06F40CEE-1B36-408B-BBD0-E6F054ABC111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almoxarifado.Test", "Almoxarifado.Test\Almoxarifado.Test.csproj", "{C461F9CF-11F4-46C9-9D66-4D403B598241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F40CEE-1B36-408B-BBD0-E6F054ABC111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F40CEE-1B36-408B-BBD0-E6F054ABC111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F40CEE-1B36-408B-BBD0-E6F054ABC111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F40CEE-1B36-408B-BBD0-E6F054ABC111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C461F9CF-11F4-46C9-9D66-4D403B598241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C461F9CF-11F4-46C9-9D66-4D403B598241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C461F9CF-11F4-46C9-9D66-4D403B598241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C461F9CF-11F4-46C9-9D66-4D403B598241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59548F18-569E-4755-A851-9558CF389151}
+	EndGlobalSection
+EndGlobal
